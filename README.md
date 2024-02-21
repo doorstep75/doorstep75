@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @doorstep75
-- 👀 I’m interested in testing APIs
-- 🌱 I’m currently learning Postman
-- 💞️ I’m looking to collaborate on Postman related projects
+- 👋 Hi, I’m Daz
+- 👀 I’m interested in testing API
+- I'm also starting off as a full stack web developer
+- 🌱 I have experience of using Postman and and currently in a full stack web dev bootcamp
+- 💞️ I’m looking to collaborate on testing projects but also anyone learning web development
+- If you are learning all about the likes of css/scss, javascript, java, libraries and databases then I'd be happy to hear from you
 - 📫 Send me a message via github
 
 <!---
