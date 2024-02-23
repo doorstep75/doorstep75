@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daz
-- 👀 I’m interested in testing API
+- 👀 I’m interested in testing APIs
 - I'm also starting off as a full stack web developer
 - 🌱 I have experience of using Postman and and currently in a full stack web dev bootcamp
 - 💞️ I’m looking to collaborate on testing projects but also anyone learning web development
