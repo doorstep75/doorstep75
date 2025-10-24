@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Daz
 - 🧪 I’m interested in testing APIs (well, it's part of my day job too actually!)
-- 💻 I'm also starting off as a full stack web developer but still early days
+- 💻 I completed a full stack web developer course and passed with flying colours
 - 🚀 I have experience of using Postman (to aid my day job) and am currently in a full stack web dev bootcamp
 - 💞️ I’m looking to collaborate on testing projects but also anyone learning web development
-- 📚 If you are learning all about the likes of css/scss, javascript, java, libraries and databases then I'd be happy to hear from you
+- 📚 I've recently started to learn more around JavaScript, TypeScript and Cypress
+- 🧑🏻‍💻 My aim is to become an automation engineer and the short term and who knows from there
 - 📫 You're welcome to send me a message via github to reach out
 
 <!---
